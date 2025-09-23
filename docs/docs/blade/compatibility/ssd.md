@@ -35,6 +35,7 @@ Below is a list of NVMe SSDs that have been tested by Uptime Lab and community m
 | :---------------------------- | :----------------- | :----------- | :------------------------------------------------ |
 | Kingston NV2                  | SNV2S/250G         | 250GB        | [pxpunx](https://github.com/pxpunx)               |
 | Kingston NV2                  | SNV2S/1000G        | 1TB          | [xvzf](https://github.com/xvzf)                   |
+| Kingston NV3                  | SNV3S/1000G        | 1TB          | [ruflin](https://github.com/ruflin)                   |
 | Kingston SNS8154P3            | RBUSNS8154P3256GJ1 | 256GB        | [pxpunx](https://github.com/pxpunx)               |
 
 

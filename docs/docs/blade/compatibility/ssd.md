@@ -127,10 +127,11 @@ Below is a list of NVMe SSDs that have been tested by Uptime Lab and community m
 | Product                       | Model              | Capacity     | Tester                                            |
 | :---------------------------- | :----------------- | :----------- | :------------------------------------------------ |
 | WD Black SN770                | WDS250G3X0E        | 250GB        | [pxpunx](https://github.com/pxpunx)               |
-| WD Black SN770                | WDS500G3X0E        | 500GB        | [Uptime](https://github.com/uptime-lab/)   |
+| WD Black SN770                | WDS500G3X0E        | 500GB        | [Uptime](https://github.com/uptime-lab/)          |
 | WD Blue SN550                 | WDS100T2B0C        | 1TB          | [lwbt](https://github.com/lwbt)                   |
 | WD Blue SN570                 | WDS250G3B0C        | 250GB        | [pxpunx](https://github.com/pxpunx)               |
 | WD Blue SN580                 | WDS100T3B0E        | 1TB          | [lwbt](https://github.com/lwbt)                   |
 | WD Green SN350                | WDS240G2G0C        | 240GB        | [pxpunx](https://github.com/pxpunx)               |
 | WD Red SN700                  | WDS500G1R0C        | 500GB        | [pxpunx](https://github.com/pxpunx)               |
 | WD SN520                      | SDAPNUW-256G-1006  | 256GB        | [pxpunx](https://github.com/pxpunx)               |
+| WD SN530                      | SDBPTPZ-256G-1012  | 256GB        | [Tom](https://github.com/nyx0)                    |
